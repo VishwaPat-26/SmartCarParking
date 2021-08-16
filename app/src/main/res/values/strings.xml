@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmartCarParking</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="google_map_api">AIzaSyD10urVXP1chswzJakXz6q8GtVSbrha2ls</string>
+    <string name="InMainBook">Book and Navigate</string>
+    <string-array name="Vehicles">
+        <item>Scooty</item>
+        <item>Bike</item>
+        <item>Car</item>
+    </string-array>
+    <string-array name="Hours">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>more than 12</item>
+    </string-array>
+    <string name="key_id">rzp_test_xaMygMOK3UuvcZ</string>
+    <string name="title_activity_siliconparking">Map</string>
+</resources>

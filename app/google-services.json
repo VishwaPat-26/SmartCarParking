@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591377099255",
+    "project_id": "smartcarparking-dd49b",
+    "storage_bucket": "smartcarparking-dd49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591377099255:android:ba620f1f27abdab138a6f2",
+        "android_client_info": {
+          "package_name": "com.example.smartcarparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591377099255-gk7g42rfpccqt8jca10n7mgbria531gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimdtcgBbZg-biJ5HAIFqV4d8EvhNxbxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591377099255-gk7g42rfpccqt8jca10n7mgbria531gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
